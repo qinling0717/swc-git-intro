@@ -1,0 +1,11 @@
+secret
+
+#compiled fortran and C code
+*.o
+*.so
+
+#Java calss files
+*.class
+
+#Phthon
+
